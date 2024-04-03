@@ -1,4 +1,5 @@
 # TNSDC-Generative-AI
+Handwritten Number Recognition:
 Description:
 RealTime-DigitRecognition application for predicting output corresponding to handwritten images.
 Utilizes SVC (support vector classifier) and a sequential model in Keras.
