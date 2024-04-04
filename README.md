@@ -37,22 +37,6 @@ To run this application, you'll need the following dependencies:
 - Scipy
 - Matplotlib
 
-## Usage
-
-1. Clone this repository to your local machine.
-2. Install the dependencies listed in the `requirements.txt` file.
-3. Run the main script to start the application.
-4. Use the interface to input handwritten digits and receive predictions.
-
-## Sample Images
-
-![Sample Images](sample_images.png)
-
-## Acknowledgments
-
-- The project was inspired by the MNIST dataset and various tutorials and resources available online.
-- Special thanks to contributors and maintainers of libraries and frameworks used in this project.
-
 
 
 
