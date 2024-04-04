@@ -1,5 +1,5 @@
 # TNSDC-Generative-AI
-Handwritten Number Recognition:
+
 # Handwritten Number Recognition
 
 ## Overview
